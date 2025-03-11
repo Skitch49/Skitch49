@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+!+👋;+Je+suis+Alexis+Delaunay+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00c565&lines=Salut+!+👋;+Je+suis+Alexis+Delaunay+!+;" />
 </h1>
 <h3 align="center">Développeur Full Stack Junior</h3>
 
@@ -20,6 +20,7 @@
 <br/>
  
 <h2 align="center">À Propos de Moi</h2>
+
 <ul>
   <li>🎓 Bac +5 en informatique</li>
   <li>📌 Passionné par les nouvelles technologies et en apprentissage constant</li>
@@ -27,24 +28,20 @@
 </ul>
 <br/>
 
-## 🛠 Stack Technique
 
 <div align="center">
 
+## 🛠 Stack Technique  
+
+
 ### Backend
+[![Symfony](https://skillicons.dev/icons?i=symfony)](# "Symfony") [![PHP](https://skillicons.dev/icons?i=php)](# "PHP") [![Node.js](https://skillicons.dev/icons?i=nodejs)](# "Node.js")  [![Express](https://skillicons.dev/icons?i=express)](# "Express.js") [![MongoDB](https://skillicons.dev/icons?i=mongodb)](# "MongoDB") [![MySQL](https://skillicons.dev/icons?i=mysql)](# "MySQL")  
 
-[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+### Frontend 
+[![Angular](https://skillicons.dev/icons?i=angular)](# "Angular") [![JavaScript](https://skillicons.dev/icons?i=javascript)](# "JavaScript") [![TypeScript](https://skillicons.dev/icons?i=typescript)](# "TypeScript")   [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](# "Bootstrap") [![HTML](https://skillicons.dev/icons?i=html)](# "HTML5") [![CSS](https://skillicons.dev/icons?i=css)](# "CSS3")  
 
-### Frontend
-
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-
-### Outils
-
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+### Outils  
+[![VS Code](https://skillicons.dev/icons?i=vscode)](# "Visual Studio Code") [![Postman](https://skillicons.dev/icons?i=postman)](# "Postman") [![Git](https://skillicons.dev/icons?i=git)](# "Git")  [![Docker](https://skillicons.dev/icons?i=docker)](# "Docker") 
 
 </div>
 
@@ -65,9 +62,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Skitch49&style=for-the-badge&color=green" alt="Alexis Delaunay Visitor Count"/>
+<br>
+  <img src="https://komarev.com/ghpvc/?username=Skitch49&style=for-the-badge&color=00c565&" alt="Alexis Delaunay Visitor Count"/>
   <br/>
    <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Merci+d'avoir+pris+le+temps+de+visiter+mon+profil+!+😊;N'hésitez+pas+à+me+contacter+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&color=00c565&pause=1000&lines=Merci+d'avoir+pris+le+temps+de+visiter+mon+profil+!+😊;N'hésitez+pas+à+me+contacter+!;" />
 </h1>
 </div>
