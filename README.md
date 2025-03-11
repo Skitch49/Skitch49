@@ -27,18 +27,26 @@
 </ul>
 <br/>
 
-## 🛠 Stack Technique  
+## 🛠 Stack Technique
 
-**Backend**  
-![Symfony](https://skillicons.dev/icons?i=symfony) ![PHP](https://skillicons.dev/icons?i=php) ![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)  
+<div align="center">
 
-**Frontend**  
-![Angular](https://skillicons.dev/icons?i=angular) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)  
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)  
+### Backend
 
-**Outils**  
-![VS Code](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker)
+[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+### Frontend
+
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+
+### Outils
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+
+</div>
 
 <h2 align="center">🔍 Ce que je Recherche</h2>
 <ul>
@@ -60,6 +68,6 @@
   <img src="https://komarev.com/ghpvc/?username=Skitch49&style=for-the-badge&color=green" alt="Alexis Delaunay Visitor Count"/>
   <br/>
    <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Merci+d'avoir+pris+le+temps+de+visiter+mon+profil+!+😊;+N'hésitez+pas+à+me+contacter+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Merci+d'avoir+pris+le+temps+de+visiter+mon+profil+!+😊;N'hésitez+pas+à+me+contacter+!;" />
 </h1>
 </div>
